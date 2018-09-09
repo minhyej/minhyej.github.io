@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Introducing Tale
+author : minhye, j.
 tags:
   - inspration
 ---
