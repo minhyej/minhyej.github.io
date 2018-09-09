@@ -1,5 +1,8 @@
 ---
-title:  "Introducing Tale"
+layout: post
+title:  Introducing Tale
+tags:
+  - inspration
 ---
 
 
