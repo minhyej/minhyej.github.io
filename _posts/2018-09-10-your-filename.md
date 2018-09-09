@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Introducing Tale
-author : minhye, j.
-tags:
-  - inspration
+title: "inspiration Test"
+author : "minhye, j."
+categories: Misc
 ---
 
 
